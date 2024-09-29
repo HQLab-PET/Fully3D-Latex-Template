@@ -1,9 +1,9 @@
-# Templates for submissions to the Fully3D conference
+# Latex Template for submission to the Fully3D conference
 
-Recommended templates for submissions to the 18th International Meeting on
+Recommended template for submission to the 18th International Meeting on
 Fully 3D Image Reconstruction in Radiology and Nuclear Medicine.
 
-fully_3d_template.pdf is a rendered preview generated from the latex template.
+LaTex_Template_for_Fully3D_2025_submission.pdf is a rendered preview generated from the latex template.
 
 **Submission rules**
 - Submission must be in **PDF format** only.
@@ -27,4 +27,4 @@ pdflatex fully3d_template.tex
 pdflatex fully3d_template.tex
 ```
 
-Alternatively, simply run the build chain including pdflatex and bibtex of your favorite LaTex editor, or use the online LaTeX editor overleaf (https://www.overleaf.com/).
+Alternatively, run the build chain including pdflatex and bibtex of your favorite LaTex editor, or use the online LaTeX editor overleaf (https://www.overleaf.com/).
